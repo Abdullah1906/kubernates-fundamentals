@@ -21,6 +21,16 @@ AWS ap-south-1 — devops-vpc (10.0.0.0/16)
 │  └──────────────────────┘  └──────────────────────┘ │
 └─────────────────────────────────────────────────────┘
 ```
+working steps:
+```text
+master-init-guide.md
+     |
+worker-join-guide.md
+     |
+ then others file
+```
+
+
 ### Here is step file for master node and worker node for kubeadm. 
 ### master-init-guide.md for master node and worker-join-guide.md for worker node.
 ### class-12
